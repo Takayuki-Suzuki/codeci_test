@@ -34,6 +34,7 @@ gem 'spring',        group: :development
 # gem 'unicorn'
 
 # Use Capistrano for deployment
+#gem 'capistrano'
 gem 'capistrano-rails', group: :development
 
 # Use debugger
