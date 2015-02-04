@@ -3,8 +3,9 @@
   <component name="DataSourceManagerImpl" format="xml" hash="65433148">
     <data-source source="LOCAL" name="Rails actcat_test: development" uuid="bb931436-68db-4403-9600-ccbe12df0d33">
       <driver-ref>sqlite.xerial</driver-ref>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/actcat_test</jdbc-url>
+      <user-name>root</user-name>
       <libraries />
     </data-source>
   </component>
