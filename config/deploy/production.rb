@@ -25,11 +25,10 @@ server '54.152.125.67', user: 'ec2-user', roles: %w{web app}
 #
 # Global options
 # --------------
-#  set :ssh_options, {
-#    keys: %w(/home/rlisowski/.ssh/id_rsa),
-#    forward_agent: false,
-#    auth_methods: %w(password)
-#  }
+  set :ssh_options, {
+    keys: %w(/home/ec2-user/.ssh/test_rsa),
+    auth_methods: %w(publickey)
+  }
 #
 # And/or per server (overrides global)
 # ------------------------------------
