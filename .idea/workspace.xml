@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="397ed553-beaf-4c8d-a40c-896028d562a0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy.rb" afterPath="$PROJECT_DIR$/config/deploy.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy/production.rb" afterPath="$PROJECT_DIR$/config/deploy/production.rb" />
     </list>
     <ignored path="actcat_test.iws" />
@@ -40,7 +39,7 @@
           <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="29" column="5" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.30962342" vertical-offset="287" max-vertical-offset="765">
+                <state line="28" column="37" selection-start="995" selection-end="995" vertical-scroll-proportion="0.27824268" vertical-offset="287" max-vertical-offset="765">
                   <folding />
                 </state>
               </provider>
@@ -588,7 +587,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="5" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.30962342" vertical-offset="287" max-vertical-offset="765">
+        <state line="28" column="37" selection-start="995" selection-end="995" vertical-scroll-proportion="0.27824268" vertical-offset="287" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
