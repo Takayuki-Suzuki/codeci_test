@@ -27,6 +27,7 @@ server '54.152.125.67', user: 'ec2-user', roles: %w{web app}
 # --------------
   set :ssh_options, {
     keys: %w(/home/ec2-user/.ssh/test_rsa),
+    #keys: %w(/Users/suzukitakayuki/.ssh/test.pem),
     auth_methods: %w(publickey)
   }
 #
