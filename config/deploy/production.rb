@@ -25,11 +25,11 @@ server '54.152.125.67', user: 'ec2-user', roles: %w{web app}
 #
 # Global options
 # --------------
-  set :ssh_options, {
-    keys: %w(/home/ec2-user/.ssh/test.pem),
-    #keys: %w(/Users/suzukitakayuki/.ssh/test.pem),
-    auth_methods: %w(publickey)
-  }
+#  set :ssh_options, {
+#    #keys: %w(/home/ec2-user/.ssh/test.pem),
+#    keys: %w(/Users/suzukitakayuki/.ssh/test.pem),
+#    auth_methods: %w(publickey)
+#  }
 #
 # And/or per server (overrides global)
 # ------------------------------------
