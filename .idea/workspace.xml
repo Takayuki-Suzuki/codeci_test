@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="397ed553-beaf-4c8d-a40c-896028d562a0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy/production.rb" afterPath="$PROJECT_DIR$/config/deploy/production.rb" />
     </list>
     <ignored path="actcat_test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,19 +27,19 @@
     <splitter split-orientation="horizontal" split-proportion="0.54602325">
       <split-first>
         <leaf>
-          <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Gemfile">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="37" column="22" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.27824268" vertical-offset="422" max-vertical-offset="900">
+                <state line="37" column="22" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.0" vertical-offset="422" max-vertical-offset="900">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="14" column="48" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+                <state line="17" column="40" selection-start="637" selection-end="637" vertical-scroll-proportion="0.4707113" vertical-offset="30" max-vertical-offset="765">
                   <folding />
                 </state>
               </provider>
@@ -58,7 +57,7 @@
           <file leaf-file-name="deploy.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/config/deploy.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="12" column="32" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+                <state line="3" column="30" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
                   <folding />
                 </state>
               </provider>
@@ -163,9 +162,9 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/views/pages/index.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/config/deploy/production.rb" />
         <option value="$PROJECT_DIR$/app/controllers/pages_controller.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/config/deploy/production.rb" />
       </list>
     </option>
   </component>
@@ -747,13 +746,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="48" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="3" selection-start="67" selection-end="67" vertical-scroll-proportion="0.091649696" vertical-offset="0" max-vertical-offset="491">
@@ -761,16 +753,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/deploy.rb">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="32" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+        <state line="37" column="22" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.0" vertical-offset="422" max-vertical-offset="900">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/config/deploy.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="22" selection-start="1280" selection-end="1280" vertical-scroll-proportion="0.27824268" vertical-offset="422" max-vertical-offset="900">
+        <state line="3" column="30" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="40" selection-start="637" selection-end="637" vertical-scroll-proportion="0.4707113" vertical-offset="30" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
