@@ -2,7 +2,7 @@
 lock '3.3.5'
 
 set :application, 'codeci_test'
-set :repo_url, 'https://github.com/Takayuki-Suzuki/codeci_test.git'
+set :repo_url, 'https://github.com/a-Suzuki/.git'
 
 # Default branch is :master
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }.call
