@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="397ed553-beaf-4c8d-a40c-896028d562a0" name="Default" comment="" />
+    <list default="true" id="397ed553-beaf-4c8d-a40c-896028d562a0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy/production.rb" afterPath="$PROJECT_DIR$/config/deploy/production.rb" />
+    </list>
     <ignored path="actcat_test.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,7 +48,7 @@
           <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="20" selection-start="617" selection-end="617" vertical-scroll-proportion="0.5334728" vertical-offset="0" max-vertical-offset="765">
+                <state line="17" column="21" selection-start="618" selection-end="618" vertical-scroll-proportion="0.5334728" vertical-offset="0" max-vertical-offset="765">
                   <folding />
                 </state>
               </provider>
@@ -747,13 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="0" selection-start="1258" selection-end="1280" vertical-scroll-proportion="0.0" vertical-offset="422" max-vertical-offset="900">
@@ -782,9 +777,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Capfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="617" selection-end="617" vertical-scroll-proportion="0.5334728" vertical-offset="0" max-vertical-offset="765">
+        <state line="17" column="21" selection-start="618" selection-end="618" vertical-scroll-proportion="0.5334728" vertical-offset="0" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
