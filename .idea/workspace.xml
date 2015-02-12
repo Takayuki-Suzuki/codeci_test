@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="397ed553-beaf-4c8d-a40c-896028d562a0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/secrets.yml" afterPath="$PROJECT_DIR$/config/secrets.yml" />
-    </list>
+    <list default="true" id="397ed553-beaf-4c8d-a40c-896028d562a0" name="Default" comment="" />
     <ignored path="actcat_test.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,10 +43,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="production.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="0" selection-start="597" selection-end="657" vertical-scroll-proportion="-0.066945605" vertical-offset="287" max-vertical-offset="765">
+                <state line="17" column="20" selection-start="617" selection-end="617" vertical-scroll-proportion="0.5334728" vertical-offset="0" max-vertical-offset="765">
                   <folding />
                 </state>
               </provider>
@@ -139,7 +137,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="secrets.yml" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="secrets.yml" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/config/secrets.yml">
               <provider selected="true" editor-type-id="text-editor">
                 <state line="21" column="2" selection-start="917" selection-end="917" vertical-scroll-proportion="0.6589958" vertical-offset="0" max-vertical-offset="478">
@@ -172,9 +170,9 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/pages_controller.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/config/deploy/production.rb" />
         <option value="$PROJECT_DIR$/config/deploy/staging.rb" />
         <option value="$PROJECT_DIR$/config/secrets.yml" />
+        <option value="$PROJECT_DIR$/config/deploy/production.rb" />
       </list>
     </option>
   </component>
@@ -777,16 +775,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
+    <entry file="file://$PROJECT_DIR$/config/secrets.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="597" selection-end="657" vertical-scroll-proportion="-0.066945605" vertical-offset="287" max-vertical-offset="765">
+        <state line="21" column="2" selection-start="917" selection-end="917" vertical-scroll-proportion="0.6589958" vertical-offset="0" max-vertical-offset="478">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/secrets.yml">
+    <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="2" selection-start="917" selection-end="917" vertical-scroll-proportion="0.6589958" vertical-offset="0" max-vertical-offset="478">
+        <state line="17" column="20" selection-start="617" selection-end="617" vertical-scroll-proportion="0.5334728" vertical-offset="0" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
