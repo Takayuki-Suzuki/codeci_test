@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="397ed553-beaf-4c8d-a40c-896028d562a0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy/production.rb" afterPath="$PROJECT_DIR$/config/deploy/production.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/deploy/staging.rb" afterPath="$PROJECT_DIR$/config/deploy/staging.rb" />
     </list>
     <ignored path="actcat_test.iws" />
@@ -48,7 +49,7 @@
           <file leaf-file-name="production.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="20" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+                <state line="17" column="1" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="47" max-vertical-offset="765">
                   <folding />
                 </state>
               </provider>
@@ -57,7 +58,7 @@
           <file leaf-file-name="staging.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/config/deploy/staging.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="17" column="20" selection-start="617" selection-end="617" vertical-scroll-proportion="0.4079498" vertical-offset="60" max-vertical-offset="765">
+                <state line="17" column="1" selection-start="598" selection-end="598" vertical-scroll-proportion="0.5334728" vertical-offset="0" max-vertical-offset="765">
                   <folding />
                 </state>
               </provider>
@@ -66,7 +67,7 @@
           <file leaf-file-name="deploy.rb" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/config/deploy.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="14" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+                <state line="3" column="0" selection-start="68" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
                   <folding />
                 </state>
               </provider>
@@ -756,13 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/deploy.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/secrets.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="2" selection-start="917" selection-end="917" vertical-scroll-proportion="0.6589958" vertical-offset="0" max-vertical-offset="478">
@@ -777,16 +771,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/deploy.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="68" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/deploy/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+        <state line="17" column="1" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="47" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/deploy/staging.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="20" selection-start="617" selection-end="617" vertical-scroll-proportion="0.4079498" vertical-offset="60" max-vertical-offset="765">
+        <state line="17" column="1" selection-start="598" selection-end="598" vertical-scroll-proportion="0.5334728" vertical-offset="0" max-vertical-offset="765">
           <folding />
         </state>
       </provider>
