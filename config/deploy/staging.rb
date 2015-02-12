@@ -15,7 +15,7 @@ role :db,  %w{ec2-user@54.152.125.67}
 # server list. The second argument is a, or duck-types, Hash and is
 # used to set extended properties on the server.
 
-#server '54.152.125.67', user: 'ec2-user', roles: %w{web app}
+server '54.152.125.67', user: 'ec2-user', roles: %w{web app}
 
 
 # Custom SSH Options
@@ -25,11 +25,11 @@ role :db,  %w{ec2-user@54.152.125.67}
 #
 # Global options
 # --------------
-  set :ssh_options, {
-    keys: %w(/home/rlisowski/.ssh/id_rsa),
-    forward_agent: false,
-    auth_methods: %w(password)
-  }
+#  set :ssh_options, {
+#    keys: %w(/home/rlisowski/.ssh/id_rsa),
+#    forward_agent: false,
+#    auth_methods: %w(password)
+#  }
 #
 # And/or per server (overrides global)
 # ------------------------------------
